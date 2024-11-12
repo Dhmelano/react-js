@@ -1,0 +1,29 @@
+.divCard{
+    display: flex;
+    flex-direction: column;
+    border:solid 1px;
+    align-items: center;
+    height: 90%;
+    margin: 2px 2px 2px 2px;
+    width: 70%;
+    background-color: rgb(143, 177, 174);
+}
+
+.imgItem{
+    width: 70%;
+    margin: 5px;
+    height: 200px;
+}
+
+.titleCard{
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.priceCard{
+    font-size: 20px;
+}
+
+.btnCard{
+    margin: 0px 0px 15px 0px;
+    width: 50%;
+}

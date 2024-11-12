@@ -1,0 +1,11 @@
+.divHeader {
+    width: 100%;
+    background-color: rgb(143, 177, 174);
+    height: 100%;
+    
+}
+
+.headerContainer {
+    height: 70px;
+    background-color: rgb(143, 177, 174);
+}

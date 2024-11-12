@@ -1,0 +1,28 @@
+.title{
+    width: 40%px;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    font-family:monospace;
+}
+.divNav{
+    width: 60%;
+}
+
+.ulNav{
+    margin-left: 40px;
+    margin-right: 50px;
+}
+.imgLogo{
+    width: 70px;
+    height: 60px;
+}
+.ulNav li {
+    border-left: solid 1px;
+    width: 70px;
+    justify-items: center;
+}
+
+.liNavbar {
+    border-right: solid 1px;
+}
